@@ -1,0 +1,9 @@
+We are using the "beautifulsoup4" Module to 'Scrape data' from websites.
+
+    command :- "pip install beautifulsoup4"
+
+    This module allows us to Scrape data from the websites and use them.
+
+Main website :- https://www.crummy.com/software/BeautifulSoup/
+
+Documentation :- https://www.crummy.com/software/BeautifulSoup/bs4/doc/
